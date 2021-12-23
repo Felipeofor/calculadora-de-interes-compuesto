@@ -3,21 +3,6 @@ Desarrollada en React.js
 Se utilizo styled-components para el estilo, Formik para el formulario, y Yup para validar el formulario.
 
 
-x-special/nautilus-clipboard
-copy
-file:///home/ramos_f/Escritorio/Captura%20de%20pantalla%20de%202021-12-23%2013-45-27dd.jpg
-
-x-special/nautilus-clipboard
-copy
-file:///home/ramos_f/Escritorio/Captura%20de%20pantalla%20de%202021-12-23%2013-51-57.png
-
-
-x-special/nautilus-clipboard
-copy
-file:///home/ramos_f/Escritorio/Captura%20de%20pantalla%20de%202021-12-23%2013-54-12.png
-
-
-
 
 
 
