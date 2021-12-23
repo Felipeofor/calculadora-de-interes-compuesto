@@ -1,6 +1,6 @@
 Desarrollada en React.js 
 
-Se utilizo styled-components para el estilo, Formik para el formulario, y Yup para validar el formulario.
+Se utilizo styled-components para el estilo, Formik para el formulario y Yup para validar el formulario.
 
 
 
